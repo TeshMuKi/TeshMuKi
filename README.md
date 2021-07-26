@@ -2,7 +2,7 @@
 - 👀 I’m interested in front end development and UI/UX design
 - 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate 
-- 📫 How to reach me ...
+- 📫 How to reach me stacykioko@gmail.com
 
 <!---
 TeshMuKi/TeshMuKi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
